@@ -60,7 +60,7 @@ describe('nuevaResta', function() {
 });
 
 describe('nuevaMultiplicacion', function() {
-  it('Deberia ser un booleano', function() {
+  it('Deberia ser un boleano', function() {
     expect(nuevaMultiplicacion).toBe(true);
   });
 });
